@@ -1,16 +1,21 @@
-## Hi there 👋
+**Hey there! 👋**
 
-<!--
-**arnavish/arnavish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arnav, an Information Sciences student at Azim Premji University, Bengaluru.
 
-Here are some ideas to get you started:
+I'm fascinated by technology and I like understanding how software, networking and computer architecture work at a deeper level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm very interested in Linux, systems programming, and open source software. Lately I've also been getting into Flutter app development, and web development using React.
+
+I'm currently working on [Bengaluru Trash Tracker](github.com/arnavish/blr-trash-tracker) — a crowd-sourced Flutter app that maps garbage blackspots across Bengaluru. Built it for a university project and currently working on making it production-ready.
+
+Currently interning at Dcube AI, where I'm getting exposure to product development and software engineering with hands-on projects.
+
+**Fun facts:**
+- I like to write
+- I sing, and I'm learning the keyboard
+- Big Nintendo fan, into fantasy games and novels.
+- I love Badminton (used to play at state level)
+
+[LinkedIn](https://www.linkedin.com/in/arnav-anish-260236240/) · arnavanish01@gmail.com
+
+
