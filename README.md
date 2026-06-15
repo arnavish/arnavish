@@ -8,7 +8,7 @@ I'm very interested in Linux, systems programming, and open source software. Lat
 
 I'm currently working on [Bengaluru Trash Tracker](github.com/arnavish/blr-trash-tracker) — a crowd-sourced Flutter app that maps garbage blackspots across Bengaluru. Built it for a university project and currently working on making it production-ready.
 
-Currently, I'm getting exposure to product development and software engineering as an intern at Dcube AI
+Currently, I'm getting exposure to product development and software engineering as an intern at Dcube AI.
 
 **Fun facts:**
 - I like to write
