@@ -6,7 +6,7 @@ I'm fascinated by technology and I like understanding how software, networking a
 
 I'm very interested in Linux, systems programming, and open source software. Lately I've also been getting into Flutter app development, and web development using React.
 
-I'm currently working on [Bengaluru Trash Tracker](github.com/arnavish/blr-trash-tracker) — a crowd-sourced Flutter app that maps garbage blackspots across Bengaluru. Built it for a university project and currently working on making it production-ready.
+My most recent project was [Bengaluru Trash Tracker](github.com/arnavish/blr-trash-tracker), a crowd-sourced Flutter app that maps garbage blackspots across Bengaluru. It was built as part of a University project, and I'll be adding the backend for it soon. 
 
 Currently, I'm getting exposure to product development and software engineering as an intern at Dcube AI.
 
